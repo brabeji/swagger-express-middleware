@@ -59,7 +59,7 @@
     "multer": "^0.1.8",
     "ono": "^1.0.22",
     "swagger-methods": "^1.0.0",
-    "swagger-parser": ">=3.0.0-alpha.8",
+    "swagger-parser": "https://github.com/BigstickCarpet/swagger-parser#60c166e5c76065374a08449fea6b35dc25aa7831",
     "tmp": "0.0.27",
     "tv4": "^1.2.5",
     "type-is": "^1.6.8"
